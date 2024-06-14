@@ -1,0 +1,32 @@
+@media(max-width:767px) {
+    h3 {
+        font-size: 22px;
+    }
+
+    .cp60 {
+        padding: 40px 15px;
+    }
+
+    .service_title h3 {
+        font-size: 22px;
+    }
+
+    .garantee_img img {
+        width: 80%;
+        padding: 20px 0px 20px 0px;
+    }
+
+    .btn-tel {
+        width: 35%;
+    }
+
+    .footer_box {
+        margin-bottom: 40px;
+    }
+}
+
+@media(max-width:500px){
+    .btn-tel {
+        width: auto;
+    }
+}
